@@ -190,7 +190,7 @@ Snail Engine supports extensive modding via **HScript** and the **plugin system*
 
 | | Name | Contribution |
 |---|------|-------------|
-| 🐌 | **nmvTeam** | Engine Development |
+| 🐌 | **Friggy Team** | Engine Development |
 | 🧠 | **Psych Engine** | Base Engine |
 | 🌟 | **Nebula_Zorua** | Modchart System & Fork |
 | 🎵 | **FunkinCrew** | Lime & OpenFL Forks |
@@ -208,7 +208,7 @@ This project is licensed under the **Apache License 2.0** — see the [LICENSE](
 
 <div align="center">
 
-**Made with ❤️ by [nmvTeam](https://github.com/anilmisayten-cmyk)**
+**Made with ❤️ by [Friggy Team](https://github.com/anilmisayten-cmyk)**
 
 *Star ⭐ if you like this project!*
 
