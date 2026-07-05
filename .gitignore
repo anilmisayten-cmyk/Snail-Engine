@@ -1,0 +1,33 @@
+# Compiled output
+export/
+bin/
+obj/
+build/
+
+# Haxe
+*.n
+*.hl
+*.hdll
+dump/
+*.dump
+
+# IDE
+.vscode/
+.idea/
+*.iml
+*.sublime-*
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Haxelib local
+.haxelib/
+
+# Lime build
+project/obj/
+
+# Logs
+*.log
+crash.txt
